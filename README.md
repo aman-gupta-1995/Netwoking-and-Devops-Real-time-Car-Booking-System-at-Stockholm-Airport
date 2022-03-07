@@ -5,7 +5,7 @@ Project Developed for Marathon #PakistanCodingMarathon - Leve 1
 https://parking-booking-system.firebaseapp.com 
 
 #Admin     
-User: admin@gmail.com  
+User: admin@gmail.com   
 pass: 123456    
  
  
