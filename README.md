@@ -8,4 +8,3 @@ https://parking-booking-system.firebaseapp.com
 User: admin@gmail.com  
 pass: 123456    
 
-
