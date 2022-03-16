@@ -6,5 +6,5 @@ export const environment = {
     databaseURL: "https://parking-booking-system.firebaseio.com",
     storageBucket: "parking-booking-system.appspot.com",
     messagingSenderId: "366624095308" 
-  } 
+  }  
 };
