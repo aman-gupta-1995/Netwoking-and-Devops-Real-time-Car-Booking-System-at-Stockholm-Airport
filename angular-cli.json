@@ -3,7 +3,7 @@
     "version": "1.0.0-beta.26", 
     "name": "basic-app"
   },  
-  "apps": [  
+  "apps": [   
     { 
       "root": "src",
       "outDir": "dist",
