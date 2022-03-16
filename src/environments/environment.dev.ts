@@ -5,7 +5,7 @@ export const environment = {
     authDomain: "parking-booking-system.firebaseapp.com",
     databaseURL: "https://parking-booking-system.firebaseio.com",
     storageBucket: "parking-booking-system.appspot.com",
-    messagingSenderId: "366624095308" 
+    messagingSenderId: "366624095308"  
   }   
 };
  
