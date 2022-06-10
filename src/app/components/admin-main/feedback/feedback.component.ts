@@ -2,7 +2,7 @@ import { Component, OnInit } from '@angular/core';
  
 import {ActivatedRoute} from '@angular/router'
 import { FormBuilder, FormGroup, Validators } from '@angular/forms'; 
-
+ 
 import { Observable} from 'rxjs';
 import { IAppState,AuthActions } from '../../store';
 import { NgRedux, select } from 'ng2-redux';
