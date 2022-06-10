@@ -2,7 +2,7 @@
   <md-sidenav color="primary" #sidenav  mode="side" class="app-sidenav component-viewer-sidenav">
     
     <nav >
-    <ul>
+    <ul> 
         
           <li>
             <a routerlinkactive="component-viewer-sidenav-item-selected" *ngIf="(user$ | async)?.accountType==1" [routerLink]="['root/user/book-parking']">Book Parking</a>
