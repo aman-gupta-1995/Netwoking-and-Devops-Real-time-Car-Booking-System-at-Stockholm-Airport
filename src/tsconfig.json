@@ -2,7 +2,7 @@
   "compilerOptions": {
     "baseUrl": "http://www.shan.com",
     "declaration": false,
-    "emitDecoratorMetadata": true,
+    "emitDecoratorMetadata": true, 
     "experimentalDecorators": true,
     "lib": ["es6", "dom"],
     "mapRoot": "./",
