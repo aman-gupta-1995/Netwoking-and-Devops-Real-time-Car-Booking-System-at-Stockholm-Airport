@@ -1,7 +1,7 @@
 { 
   "name": "real-time-parking-booking-system",   
   "version": "0.0.0",    
-  "license": "MIT",     
+  "license": "MIT",      
   "angular-cli": {},            
   "scripts": {     
     "ng": "ng",      
